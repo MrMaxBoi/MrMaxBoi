@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on: DevOps experiments (Jenkins, Docker/Kubernetes) and a Pokémon card e-commerce deployment.<br>👯  I’m looking to collaborate on: Full-stack projects, hackathon ideas, or anything mixing AI and cloud.<br>🤝  I’m looking for help with: Scaling cloud apps and mastering production-grade CI/CD.<br>🌱  I’m currently learning: Containerization and authentication.<br>💬  Ask me about: MERN stack or student-level survival tactics.<br>⚡  Fun Fact: I once made a “fake food reviewer detector” that was halfway working before I even wired it into AWS.<br>
+🔭  I’m currently working on: DevOps experiments (Jenkins, Docker/Kubernetes) and a Pokémon card e-commerce deployment.<br>👯  I’m looking to collaborate on: Full-stack projects, hackathon ideas, or anything mixing AI and cloud.<br>🤝  I’m looking for help with: Scaling cloud apps and mastering production-grade CI/CD.<br>🌱  I’m currently learning: Containerization and authentication.<br>💬  Ask me about: MERN stack or student-level survival tactics.
 
 
 ## 🌐 Socials:
